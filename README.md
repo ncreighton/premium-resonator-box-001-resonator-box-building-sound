@@ -1,0 +1,2 @@
+# premium-resonator-box-001-resonator-box-building-sound
+Tired of losing resonator box measurements, material lists, and tuning notes across crumpled paper and forgotten spreadsheets? Your next build deserves a dedicated command center.  This Notion template transforms the chaos of resonator box building into a streamlined, repeatable workflow. Instead of scrambling to remember your sound port dimensions
